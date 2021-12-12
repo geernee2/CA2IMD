@@ -1,0 +1,96 @@
+
+body {
+    position: relative;
+    font-family: 'Arial Narrow Bold', sans-serif;
+}
+
+.container {
+    margin-top:2rem;
+}
+
+.btn-custom{background-color: #17252A; color: white;}
+.btn-custom:hover{color: grey;}
+.navbar-custom {
+    background-color: #DEF2F1;
+    color: green;
+}
+
+.navbar-nav {
+margin-left: auto;
+}
+   
+
+.nav-pills-custom{color: red;}
+
+.a-custom{color:black;}
+
+.topics {
+    margin: 0rem;
+    padding: 50px;
+}
+
+#home{
+    background-color: #DEF2F1;
+}
+
+#aboutMe{
+    background-color: #3AAFA9;
+    color: #FEFFFF;
+}
+
+#education{
+    background-color: #FEFFFF;
+    
+}
+
+#projects{
+    background-color: #2B7A78;
+}
+
+#texto{
+    color: #DEF2F1;
+}
+
+
+#interests{
+    background-color: #DEF2F1;
+}
+
+#contactMe{
+    background-color: #FEFFFF;
+}
+
+#fotoCV{
+    width: 250px;
+    float: left;
+    margin-right: 100px;
+    margin-left: 50px;
+}
+
+.card {
+    display:inline-block;
+    
+}
+
+.formulario{
+    margin-left: 25%;
+    width: 50%;
+    background-color: #FEFFFF;
+    padding: 20px;
+}
+
+.row-custom{
+
+   justify-content: center;
+}
+
+#map {
+    height: 300px;
+    width: 400px;
+    float: right;
+    margin: 2px;
+}
+
+#name{
+    font-family:monospace;
+}
